@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ Welcome to my GitHub page. It is still under construction as I'm exploring things outside of Android. There will be new projects soon!
+- 🌱 Learning Software/Web Development and Security.
+
 <!--
 **razscu/razscu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
